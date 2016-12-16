@@ -1,2 +1,2 @@
-This is the Read me file for awesome project
+This is readme file of my super awesome project
 Added this second line to Readme.txt file
